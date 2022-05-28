@@ -1,6 +1,0 @@
-framework module Pods_MVC_boilerplate_Dev {
-  umbrella header "Pods-MVC-boilerplate Dev-umbrella.h"
-
-  export *
-  module * { export * }
-}

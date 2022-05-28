@@ -1,6 +1,0 @@
-framework module Pods_MVC_boilerplate_Stage {
-  umbrella header "Pods-MVC-boilerplate Stage-umbrella.h"
-
-  export *
-  module * { export * }
-}
