@@ -1,0 +1,84 @@
+
+// MARK: - TabBar
+"tab_bar_projects" = "Projects";
+"tab_bar_team" = "Team";
+"tab_bar_company" = "Company";
+
+// MARK: - Projects
+"projects_title" = "Projects";
+
+// MARK: - Team
+"team_title" = "Team";
+"team_error" = "Something unexpected happened when fetching the team";
+
+// MARK: - Company
+"company_title" = "Company";
+
+//MARK: - Login
+"sign_in_email_placeholder" = "Enter your email";
+"sign_in_password_placeholder" = "Enter your password";
+"sign_in_title" = "Log in using your credentials";
+"sign_in_button" = "Log In";
+"forgot_password_button" = "Forgor your password?";
+
+// MARK: - Sign Up
+"sign_up_button" = "Sign Up";
+"facebook_sign_in_failed" = "Unable to log in with Facebook.\nPlease try again later.";
+
+//MARK: - Common
+"unexpected_error" = "Something unexpected happened. Please try again.";
+"error" = "Error";
+"ok" = "Ok";
+
+// MARK: - Dialogs
+"default_error_title" = "Ooops!";
+
+//MARK: - Onboarding
+"register_button_title" = "Sign up with email";
+"apple_sign_in_button_title" = "Sign in with Apple";
+"google_sign_in_button_title" = "Sign in with Google";
+"facebook_sign_in_button_title" = "Sign in with Facebook";
+"sign_in_button_title" = "Already with us? Sign in";
+"onboarding_subtitle" = "MVC boilerplate";
+
+// MARK: - Input Fields
+"first_name_label" = "First name";
+"first_name_placeholder" = "Enter your first name";
+"name_placeholder" = "Enter your full name";
+"first_name_required_error" = "Enter a first name.";
+"first_name_invalid_error" = "Invalid first name.";
+
+"last_name_label" = "Last name";
+"last_name_placeholder" = "Enter your last name";
+"last_name_required_error" = "Enter a last name.";
+"last_name_invalid_error" = "Invalid last name.";
+
+"email_label" = "Email";
+"email_placeholder" = "Enter an email address";
+"email_required_error" = "Enter your email.";
+"email_invalid_error" = "Invalid email.";
+
+"password_label" = "Password";
+"password_placeholder" = "Choose your password";
+"password_required_error" = "Enter your password.";
+"password_invalid_error" = "Use at least six characters with one number and one capital letter.";
+"password_message" = "Use at least six characters with one number and one capital letter.";
+"new_password_required_error" = "Enter new password.";
+"confirm_new_password_required_error" = "Confirm new password.";
+"new_password_mismatch_required_error" = "Password mismatch.";
+"current_password_placeholder" = "Enter your password";
+"new_password_placeholder" = "Choose your password";
+"confirm_new_password_placeholder" = "Confirm new password";
+"new_password_title" = "New Password";
+
+"show_password_button"="Show";
+"hide_password_button" = "Hide";
+
+// MARK: - Image Picker Sheet
+"profile_image_picker_title" = "Choose your profile image";
+"profile_image_picker_message" = "Select one option";
+"take_photo_title" = "Open camera";
+"pick_photo_title" = "Open photo library";
+
+// MARK: - Generic
+"cancel" = "Cancel";
